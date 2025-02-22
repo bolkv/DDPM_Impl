@@ -3,7 +3,7 @@ This repository contains an implementation of the Denoising Diffusion Probabilis
 Denoising Diffusion Probabilistic Models (Ho et al., 2020).
 
 ## 📸 Demo
-![Sample Image](/img/result.png)
+![Sample Image](./img/result.png)
 
 ## 📜 Paper Information
 - Title: Denoising Diffusion Probabilistic Models
