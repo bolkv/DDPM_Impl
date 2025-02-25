@@ -5,7 +5,7 @@ Denoising Diffusion Probabilistic Models (Ho et al., 2020).
 
 ## 📸 Demo
 
-![Demo](./img/sample.mp4)
+![Demo](./img/sample.gif)
 ![Sample Image](./img/result.png)
 
 ## 📜 Paper Information
